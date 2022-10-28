@@ -1,4 +1,4 @@
-package parte01_boaspraticas.aula2110;
+package parte01_boaspraticas.aula2810;
 
 import java.text.NumberFormat;
 
@@ -12,7 +12,7 @@ public class RelatorioDeDivida {
 
     public void geraRelatorio(NumberFormat formatadorDeNumero) {
      System.out.println("Credor: " + divida.getCredor());
-     System.out.println("Cnpj credor: " + divida.getDocumentoCredor());
+     System.out.println("Cnpj credor: " + divida.getDocumentoCredor() );
 
     // agora utilizamos uma instância da classe NumberFormat 
     // para fazer a exibição dos valores      

@@ -1,4 +1,4 @@
-package parte01_boaspraticas.aula2110;
+package parte01_boaspraticas.aula2810;
 
 import java.util.HashMap;
 import java.util.Objects;
@@ -8,7 +8,7 @@ public class BalancoEmpresaOld {
   private HashMap<CPF, Divida> dividasPF = new HashMap<>();
 
   public void registraDivida(Divida divida ) {
-/*    if (divida.getCnpjCredor() != null )
+   /* if (divida.getCnpjCredor() != null )
        dividasPJ.put(divida.getCnpjCredor(), divida );
 
     else if (divida.getCpfCredor() != null )

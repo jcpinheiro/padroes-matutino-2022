@@ -1,4 +1,4 @@
-package parte01_boaspraticas.aula2110;
+package parte01_boaspraticas.aula2810;
 
 import java.text.NumberFormat;
 import java.util.Locale;
