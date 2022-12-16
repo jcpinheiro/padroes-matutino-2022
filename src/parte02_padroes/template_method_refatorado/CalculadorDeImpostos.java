@@ -1,4 +1,4 @@
-package parte02_padroes.strategy_refatorado;
+package parte02_padroes.template_method_refatorado;
 
 public class CalculadorDeImpostos {
 

@@ -1,4 +1,4 @@
-package parte02_padroes.strategy_refatorado;
+package parte02_padroes.chainofresponsability;
 
 public class CalculadorDeImpostos {
 

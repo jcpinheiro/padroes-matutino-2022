@@ -1,4 +1,4 @@
-package parte02_padroes.strategy_refatorado;
+package parte02_padroes.chainofresponsability;
 
 public class ISS implements Imposto {
     private static final double TAXA = 0.06;

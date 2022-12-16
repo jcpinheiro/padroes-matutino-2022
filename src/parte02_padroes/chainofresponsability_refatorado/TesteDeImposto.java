@@ -1,9 +1,9 @@
-package parte02_padroes.strategy_refatorado;
+package parte02_padroes.chainofresponsability_refatorado;
 
 public class TesteDeImposto {
 
     public static void main(String[] args) {
-        Orcamento orcamento = new Orcamento(500);
+        Orcamento orcamento = new Orcamento();
         CalculadorDeImpostos calculadora = new CalculadorDeImpostos();
 
         Imposto icms = new ICMS();
