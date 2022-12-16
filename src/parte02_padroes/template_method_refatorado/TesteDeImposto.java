@@ -3,7 +3,7 @@ package parte02_padroes.template_method_refatorado;
 public class TesteDeImposto {
 
     public static void main(String[] args) {
-        Orcamento orcamento = new Orcamento(500);
+/*        Orcamento orcamento = new Orcamento(500);
         CalculadorDeImpostos calculadora = new CalculadorDeImpostos();
 
         Imposto icms = new ICMS();
@@ -12,6 +12,6 @@ public class TesteDeImposto {
 
         calculadora.calcula(orcamento, icms );
         calculadora.calcula(orcamento, iss );
-        calculadora.calcula(orcamento, pis );
+        calculadora.calcula(orcamento, pis );*/
     }
 }
